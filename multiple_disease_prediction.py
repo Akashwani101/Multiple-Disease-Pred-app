@@ -4,7 +4,7 @@ Created on Tue Aug 22 12:17:51 2022
 
 @author: AkashWani
 """
-
+import streamlit_option_menu 
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
