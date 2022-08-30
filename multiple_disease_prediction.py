@@ -7,6 +7,9 @@ Created on Tue Aug 22 12:17:51 2022
 
 import pickle
 import streamlit as st
+
+import sys
+sys.path.insert(1,r"C:\Users\akash wani\PycharmProjects\pythonProject\venv\Lib\site-packages\streamlit_option_menu")
 from streamlit_option_menu import option_menu
 
 
