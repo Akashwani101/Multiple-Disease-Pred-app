@@ -5,3 +5,4 @@ pickle==0.7.5
 streamlit==1.12.2
 streamlit-option-menu==0.3.2
 scikit-learn==1.0.1
+streamlit_option_menu==0.3.2
