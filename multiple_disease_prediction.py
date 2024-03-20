@@ -86,7 +86,7 @@ if (selected == 'Diabetes Prediction'):
 if (selected == 'Heart Disease Prediction'):
     
     # page title
-    st.title('Heart Disease Prediction using ML')
+    st.title('Heart Disease Prediction using Machhine Learning')
     
     col1, col2, col3 = st.columns(3)
     
